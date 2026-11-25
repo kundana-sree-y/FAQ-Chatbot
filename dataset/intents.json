@@ -1,0 +1,123 @@
+
+[
+  {
+    "tag": "Admissions",
+    "patterns": [
+      "How can I apply for admission?",
+      "What is the admission process?",
+      "How do I join this college?",
+      "What are the eligibility requirements?",
+      "How can I enroll in a course?",
+      "Which entrance exam is required?",
+      "What documents are needed for admission?",
+      "When does the admission process begin?",
+      "Can I get admission after intermediate?",
+      "How do I register for admission?"
+    ]
+  },
+  {
+    "tag": "Courses",
+    "patterns": [
+      "What courses are offered?",
+      "Which engineering branches are available?",
+      "What departments does the college have?",
+      "Tell me about the available degrees.",
+      "What specializations can I choose?",
+      "Which subjects can I study?",
+      "Does the college offer computer science?",
+      "What undergraduate programmes are available?",
+      "Can you explain the different courses?",
+      "Which branch should I choose?"
+    ]
+  },
+  {
+    "tag": "Fees",
+    "patterns": [
+      "What are the college fees?",
+      "How much is the tuition fee?",
+      "What is the fee structure?",
+      "Can I pay fees in installments?",
+      "Are scholarships available?",
+      "How can I pay my college fees?",
+      "What is the admission fee?",
+      "Is there a fee refund policy?",
+      "Where can I get fee details?",
+      "Are there any financial assistance options?"
+    ]
+  },
+  {
+    "tag": "Placements",
+    "patterns": [
+      "What are the placement opportunities?",
+      "Does the college provide placements?",
+      "Which companies recruit students?",
+      "How can I prepare for campus placements?",
+      "What is the placement process?",
+      "Are internships available?",
+      "What career opportunities are available?",
+      "Does the college have a placement cell?",
+      "How can students get placed?",
+      "Can I get help with interview preparation?"
+    ]
+  },
+  {
+    "tag": "Hostel",
+    "patterns": [
+      "Is hostel accommodation available?",
+      "Does the college provide hostel facilities?",
+      "Are rooms available for students?",
+      "What are the hostel rules?",
+      "Is food provided in the hostel?",
+      "How can I apply for hostel accommodation?",
+      "What are the hostel charges?",
+      "Can students stay on campus?",
+      "Is there a separate hostel for girls?",
+      "Tell me about student accommodation."
+    ]
+  },
+  {
+    "tag": "Library",
+    "patterns": [
+      "Where is the college library?",
+      "What library facilities are available?",
+      "Can students borrow books?",
+      "What are the library timings?",
+      "Are digital resources available?",
+      "Can I access journals in the library?",
+      "Is there a reading room?",
+      "How many books can I borrow?",
+      "Can students study in the library?",
+      "How do I get a library card?"
+    ]
+  },
+  {
+    "tag": "Examinations",
+    "patterns": [
+      "When are the semester exams?",
+      "How can I check my examination timetable?",
+      "Where can I see my results?",
+      "What is the attendance requirement?",
+      "How are internal marks calculated?",
+      "When will examination results be announced?",
+      "What happens if I fail an exam?",
+      "How can I apply for a revaluation?",
+      "Where can I find the exam schedule?",
+      "What are the examination rules?"
+    ]
+  },
+  {
+    "tag": "General",
+    "patterns": [
+      "Where is the college located?",
+      "How can I contact the college?",
+      "What are the college office timings?",
+      "Tell me about the college.",
+      "Where can I find college information?",
+      "How do I contact the administration?",
+      "What facilities are available on campus?",
+      "Where can I get student support?",
+      "Who should I contact for enquiries?",
+      "Can you help me with college information?"
+    ]
+  }
+]

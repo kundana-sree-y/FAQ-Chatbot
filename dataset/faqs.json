@@ -1,0 +1,169 @@
+
+[
+  {
+    "id": 1,
+    "category": "Admissions",
+    "question": "How can I apply for admission?",
+    "variations": [
+      "What is the admission process?",
+      "How do I join the college?",
+      "How can I get admission?",
+      "Where can I apply for admission?"
+    ],
+    "answer": "Students can apply for admission through the applicable admission process. Depending on the course and admission category, candidates may need to participate in entrance examinations, counselling and document verification."
+  },
+  {
+    "id": 2,
+    "category": "Admissions",
+    "question": "What documents are required for admission?",
+    "variations": [
+      "Which certificates are needed?",
+      "What documents should I bring?",
+      "What are the required documents?"
+    ],
+    "answer": "Generally, students may need their SSC and Intermediate marksheets, entrance examination rank card, transfer certificate, study certificates, identity proof, photographs and applicable category certificates."
+  },
+  {
+    "id": 3,
+    "category": "Courses",
+    "question": "What courses are offered?",
+    "variations": [
+      "Which engineering branches are available?",
+      "What departments are there?",
+      "Tell me about the courses."
+    ],
+    "answer": "The college offers undergraduate engineering programmes across different disciplines. Students should check the official college website for the current list of approved programmes and specializations."
+  },
+  {
+    "id": 4,
+    "category": "Courses",
+    "question": "Is Computer Science and Engineering available?",
+    "variations": [
+      "Does the college have CSE?",
+      "Is computer science offered?",
+      "Can I study computer science here?"
+    ],
+    "answer": "Computer Science and Engineering is an engineering discipline focused on programming, computer systems, software development, algorithms and related technologies. Check the current college admissions information for programme availability."
+  },
+  {
+    "id": 5,
+    "category": "Fees",
+    "question": "What is the college fee structure?",
+    "variations": [
+      "How much is the tuition fee?",
+      "What are the fees?",
+      "Tell me about college fees."
+    ],
+    "answer": "The fee structure depends on the course and admission category. Please contact the college admissions office or consult the latest official fee notification for accurate details."
+  },
+  {
+    "id": 6,
+    "category": "Fees",
+    "question": "Are scholarships available?",
+    "variations": [
+      "Can I get a scholarship?",
+      "Does the college provide financial assistance?",
+      "Are fee reimbursement schemes available?"
+    ],
+    "answer": "Eligible students may be able to access government scholarships and fee reimbursement schemes according to applicable eligibility rules. Contact the college scholarship section for guidance."
+  },
+  {
+    "id": 7,
+    "category": "Placements",
+    "question": "Does the college provide placement assistance?",
+    "variations": [
+      "Are placements available?",
+      "Does the college help students get jobs?",
+      "Is there a placement cell?"
+    ],
+    "answer": "Students can approach the Training and Placement Cell for information about placement activities, recruitment drives, career guidance, aptitude preparation and interview training."
+  },
+  {
+    "id": 8,
+    "category": "Placements",
+    "question": "Which companies recruit students?",
+    "variations": [
+      "What companies visit the campus?",
+      "Which companies offer jobs?",
+      "Who are the recruiting companies?"
+    ],
+    "answer": "Recruiting companies and their hiring opportunities can change each year. Contact the Training and Placement Cell for the latest recruiter information."
+  },
+  {
+    "id": 9,
+    "category": "Hostel",
+    "question": "Is hostel accommodation available?",
+    "variations": [
+      "Does the college have a hostel?",
+      "Are hostel facilities provided?",
+      "Can students stay in a hostel?"
+    ],
+    "answer": "Students can contact the college administration to enquire about hostel accommodation, availability, room allocation and applicable charges."
+  },
+  {
+    "id": 10,
+    "category": "Hostel",
+    "question": "What facilities are available in the hostel?",
+    "variations": [
+      "Does the hostel provide food?",
+      "What are the hostel facilities?",
+      "Is there a mess facility?"
+    ],
+    "answer": "Hostel facilities and services should be confirmed with the college hostel administration. Students can enquire about accommodation, dining, security and other available amenities."
+  },
+  {
+    "id": 11,
+    "category": "Library",
+    "question": "Does the college have a library?",
+    "variations": [
+      "Is a library available?",
+      "Can students use the library?",
+      "Tell me about library facilities."
+    ],
+    "answer": "The college library is an academic resource where students can access learning materials and reference resources. Contact the library staff for information about current facilities."
+  },
+  {
+    "id": 12,
+    "category": "Library",
+    "question": "Can students borrow books?",
+    "variations": [
+      "Can I take books home?",
+      "Is book lending available?",
+      "How can I borrow library books?"
+    ],
+    "answer": "Students should follow the library's membership, borrowing and return policies. Contact the library staff to learn about book issue limits and borrowing periods."
+  },
+  {
+    "id": 13,
+    "category": "Examinations",
+    "question": "How can I check examination results?",
+    "variations": [
+      "Where can I see my results?",
+      "How do I check semester results?",
+      "When will results be announced?"
+    ],
+    "answer": "Students can check examination results through the official examination portal or notices issued by the college. Keep your registration details ready."
+  },
+  {
+    "id": 14,
+    "category": "Examinations",
+    "question": "Where can I find the examination timetable?",
+    "variations": [
+      "When are semester exams?",
+      "How can I get the exam schedule?",
+      "Where is the timetable available?"
+    ],
+    "answer": "Examination timetables are generally communicated through official college notices and academic portals. Check the latest announcements from your department."
+  },
+  {
+    "id": 15,
+    "category": "General",
+    "question": "How can I contact the college?",
+    "variations": [
+      "What are the college contact details?",
+      "How do I reach the administration?",
+      "Where can I get college information?"
+    ],
+    "answer": "For accurate contact information, visit the official college website or contact the college administration through its published communication channels."
+  }
+]

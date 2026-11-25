@@ -1,0 +1,199 @@
+
+{
+  "college": {
+    "name": "X College of Engineering and Technology",
+    "short_name": "X College",
+    "established": 2005,
+    "type": "Private Engineering College",
+    "location": "Hyderabad, Telangana, India",
+    "affiliation": "X State Technical University",
+    "approval": "AICTE",
+    "accreditation": "NAAC Accredited",
+    "website": "www.xcollege.example",
+    "email": "info@xcollege.example",
+    "phone": "+91 90000 12345",
+    "vision": "To develop skilled professionals through quality education, innovation and research.",
+    "mission": "To provide technical knowledge, practical learning and professional development opportunities."
+  },
+  "admissions": {
+    "academic_year": "2026-2027",
+    "application_start": "January 2026",
+    "application_deadline": "August 2026",
+    "eligibility": "Candidates must complete 10+2 with Mathematics, Physics and Chemistry.",
+    "minimum_percentage": "45% for general category and 40% for reserved categories, subject to applicable rules.",
+    "entrance_exams": ["EAMCET", "JEE Main"],
+    "process": [
+      "Complete the online application form.",
+      "Submit academic and personal documents.",
+      "Participate in the applicable entrance examination and counselling.",
+      "Attend document verification.",
+      "Pay the required admission fee."
+    ],
+    "documents": [
+      "10th marks memo",
+      "Intermediate marks memo",
+      "Transfer certificate",
+      "Study certificates",
+      "Entrance examination rank card",
+      "Aadhaar card",
+      "Passport-size photographs"
+    ],
+    "contact": "Contact the Admissions Office for application assistance."
+  },
+  "courses": [
+    {
+      "name": "Computer Science and Engineering",
+      "short_name": "CSE",
+      "duration": "4 years",
+      "intake": 120,
+      "description": "Covers programming, algorithms, databases, operating systems and software development."
+    },
+    {
+      "name": "Artificial Intelligence and Machine Learning",
+      "short_name": "AI & ML",
+      "duration": "4 years",
+      "intake": 60,
+      "description": "Focuses on artificial intelligence, machine learning, deep learning and data science."
+    },
+    {
+      "name": "Electronics and Communication Engineering",
+      "short_name": "ECE",
+      "duration": "4 years",
+      "intake": 60,
+      "description": "Covers electronics, communication systems, embedded systems and signal processing."
+    },
+    {
+      "name": "Electrical and Electronics Engineering",
+      "short_name": "EEE",
+      "duration": "4 years",
+      "intake": 60,
+      "description": "Focuses on electrical machines, power systems and electrical circuits."
+    },
+    {
+      "name": "Mechanical Engineering",
+      "short_name": "ME",
+      "duration": "4 years",
+      "intake": 60,
+      "description": "Covers manufacturing, thermodynamics, machine design and engineering mechanics."
+    },
+    {
+      "name": "Civil Engineering",
+      "short_name": "CE",
+      "duration": "4 years",
+      "intake": 60,
+      "description": "Covers structural engineering, construction, surveying and environmental engineering."
+    }
+  ],
+  "fees": {
+    "tuition_per_year": 95000,
+    "admission_fee": 10000,
+    "hostel_per_year": 75000,
+    "transport_per_year": 25000,
+    "payment_modes": ["Online payment", "Bank transfer", "Demand draft"],
+    "scholarships": [
+      "Government scholarships for eligible students",
+      "Merit-based scholarships",
+      "Financial assistance for eligible students"
+    ],
+    "note": "All fee amounts are fictional sample figures and subject to change."
+  },
+  "placements": {
+    "department": "Training and Placement Cell",
+    "activities": [
+      "Aptitude training",
+      "Technical training",
+      "Mock interviews",
+      "Resume preparation",
+      "Group discussion practice",
+      "Campus recruitment drives"
+    ],
+    "recruiters": [
+      "TCS",
+      "Infosys",
+      "Wipro",
+      "Accenture",
+      "Capgemini",
+      "Cognizant"
+    ],
+    "internships": "Students receive internship guidance and opportunities through placement activities and industry connections.",
+    "eligibility": "Recruitment eligibility depends on the individual company's academic and selection criteria.",
+    "contact": "Students can approach the Training and Placement Office."
+  },
+  "facilities": {
+    "library": {
+      "description": "A central library with textbooks, reference books, journals and digital learning resources.",
+      "timings": "9:00 AM to 6:00 PM, Monday to Saturday",
+      "services": ["Book borrowing", "Reading room", "Digital resources", "Journal access"]
+    },
+    "laboratories": [
+      "Computer Programming Lab",
+      "Artificial Intelligence Lab",
+      "Electronics Lab",
+      "Electrical Machines Lab",
+      "Mechanical Workshop",
+      "Civil Engineering Lab"
+    ],
+    "wifi": "Wi-Fi connectivity is available in academic and selected campus areas.",
+    "sports": ["Cricket", "Football", "Badminton", "Volleyball", "Basketball"],
+    "medical": "Basic first-aid and medical assistance facilities are available on campus.",
+    "transport": "College buses operate on selected routes around the city."
+  },
+  "hostel": {
+    "availability": "Separate accommodation facilities are available for boys and girls.",
+    "rooms": ["Two-sharing rooms", "Three-sharing rooms"],
+    "facilities": [
+      "Dining hall",
+      "Wi-Fi",
+      "Study rooms",
+      "RO drinking water",
+      "Laundry facilities",
+      "24-hour security"
+    ],
+    "food": "Vegetarian and non-vegetarian meal options are available.",
+    "timings": "Hostel entry and exit follow the hostel administration's prescribed schedule.",
+    "application": "Students can apply through the Hostel Administration Office."
+  },
+  "examinations": {
+    "system": "Semester-based academic system",
+    "semesters_per_year": 2,
+    "assessment": [
+      "Internal examinations",
+      "Assignments",
+      "Laboratory assessments",
+      "Semester-end examinations"
+    ],
+    "attendance": "Students must satisfy the applicable university attendance requirements.",
+    "results": "Results are published through the student examination portal.",
+    "revaluation": "Students can apply for revaluation within the notified application period."
+  },
+  "student_life": {
+    "clubs": [
+      "Coding Club",
+      "Robotics Club",
+      "Literary Club",
+      "Photography Club",
+      "Cultural Club",
+      "Entrepreneurship Cell"
+    ],
+    "events": [
+      "Annual Technical Fest",
+      "Cultural Fest",
+      "Sports Day",
+      "Project Expo",
+      "Hackathons"
+    ],
+    "support": [
+      "Academic counselling",
+      "Mentoring",
+      "Career guidance",
+      "Student grievance support"
+    ]
+  },
+  "academic_calendar": {
+    "academic_year_start": "August",
+    "odd_semester": "August to December",
+    "even_semester": "January to May",
+    "vacation": "May to July",
+    "note": "These are indicative months, not confirmed academic dates."
+  }
+}

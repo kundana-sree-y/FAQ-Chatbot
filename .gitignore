@@ -1,0 +1,12 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+models/
+.cache/
+huggingface_cache/
+.DS_Store
+Thumbs.db

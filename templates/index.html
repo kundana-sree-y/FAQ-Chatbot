@@ -1,0 +1,140 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CampusAI | College Assistant</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+
+<div class="app-container">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+
+        <div class="brand">
+            <div class="brand-icon">C</div>
+            <div>
+                <h2>CampusAI</h2>
+                <span>YOUR CAMPUS ASSISTANT</span>
+            </div>
+        </div>
+
+        <button class="new-chat" onclick="goHome()">
+            ＋ New Chat
+        </button>
+
+        <div class="sidebar-footer">
+            <span class="status-dot"></span>
+            CampusAI is ready
+            <small>Powered by NLP & Machine Learning</small>
+        </div>
+
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+
+        <!-- HEADER -->
+        <header class="topbar">
+
+            <div>
+                <h3 id="pageTitle">College Assistant</h3>
+                <span id="pageSubtitle">Your intelligent campus companion</span>
+            </div>
+
+            <div class="online-status">
+                <span class="status-dot"></span> Online
+            </div>
+
+        </header>
+
+        <!-- CHAT AREA -->
+        <section class="chat-area" id="chatArea">
+
+            <!-- WELCOME SCREEN -->
+            <div class="welcome-screen" id="welcomeScreen">
+
+                <div class="welcome-icon">✦</div>
+
+                <h1>Hey there! 👋</h1>
+
+                <h2>How can I help you today?</h2>
+
+                <p>
+                    Ask me anything about college admissions,
+                    courses, fees, placements and more.
+                </p>
+
+                <div class="suggestion-grid">
+
+                    <button class="topic-card"
+                            onclick="openTopic('Admissions')">
+                        <span>🎓</span>
+                        <strong>Admissions</strong>
+                        <small>Learn about the admission process</small>
+                    </button>
+
+                    <button class="topic-card"
+                            onclick="openTopic('Courses')">
+                        <span>📚</span>
+                        <strong>Courses</strong>
+                        <small>Explore available programmes</small>
+                    </button>
+
+                    <button class="topic-card"
+                            onclick="openTopic('Placements')">
+                        <span>💼</span>
+                        <strong>Placements</strong>
+                        <small>Discover career opportunities</small>
+                    </button>
+
+                    <button class="topic-card"
+                            onclick="openTopic('Fees')">
+                        <span>💳</span>
+                        <strong>Fee Details</strong>
+                        <small>Find fee-related information</small>
+                    </button>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- INPUT -->
+        <div class="input-section" id="inputSection" style="display:none">
+
+            <form id="chatForm">
+
+                <input
+                    type="text"
+                    id="userInput"
+                    placeholder="Message CampusAI..."
+                    autocomplete="off"
+                    required
+                >
+
+                <button type="submit" id="sendButton">
+                    ➤
+                </button>
+
+            </form>
+
+            <p>
+                CampusAI may occasionally provide inaccurate information.
+                Verify important college details.
+            </p>
+
+        </div>
+
+    </main>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+</html>

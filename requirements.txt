@@ -1,0 +1,9 @@
+
+Flask
+scikit-learn
+numpy
+transformers
+torch
+sentencepiece
+sacremoses
+langdetect
