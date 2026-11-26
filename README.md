@@ -2,7 +2,7 @@
 
 
 
-\# 🎓 CampusAI — Intelligent College Assistant
+# 🎓 CampusAI — Intelligent College Assistant
 
 
 
@@ -10,29 +10,29 @@ CampusAI is an intelligent, web-based college assistant designed to help student
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\- 💬 Conversational Interaction — Supports greetings, basic conversations, and student queries.
+- 💬 Conversational Interaction — Supports greetings, basic conversations, and student queries.
 
-\- 🎓 College Information — Provides college-related information from its knowledge base.
+- 🎓 College Information — Provides college-related information from its knowledge base.
 
-\- 🧠 NLP-Based Intent Recognition — Uses machine learning and text processing to identify user query patterns and intents.
+- 🧠 NLP-Based Intent Recognition — Uses machine learning and text processing to identify user query patterns and intents.
 
-\- 🌐 Multilingual Support — Enables interaction across different languages using the translation engine.
+- 🌐 Multilingual Support — Enables interaction across different languages using the translation engine.
 
-\- 🔄 Translation Support — Translates queries and responses to improve accessibility.
+- 🔄 Translation Support — Translates queries and responses to improve accessibility.
 
-\- 📚 Knowledge Base — Uses structured college information and FAQ datasets.
+- 📚 Knowledge Base — Uses structured college information and FAQ datasets.
 
-\- 🖥️ Web Interface — Interactive chatbot interface built using HTML, CSS, JavaScript, and Flask.
+- 🖥️ Web Interface — Interactive chatbot interface built using HTML, CSS, JavaScript, and Flask.
 
-\- ❓ Fallback Responses — Handles queries for which reliable information is unavailable.
+- ❓ Fallback Responses — Handles queries for which reliable information is unavailable.
 
 
 
-\## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 
 
@@ -58,7 +58,7 @@ CampusAI is an intelligent, web-based college assistant designed to help student
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 
 
@@ -72,15 +72,15 @@ FAQ-Chatbot/
 
 ├── conversation.py
 
-├── translation\_engine.py
+├── translation_engine.py
 
-├── train\_model.py
+├── train_model.py
 
 ├── requirements.txt
 
 ├── dataset/
 
-│   ├── college\_data.json
+│   ├── college_data.json
 
 │   ├── faqs.json
 
@@ -108,11 +108,11 @@ FAQ-Chatbot/
 
 
 
-\## ⚙️ Installation and Setup
+## ⚙️ Installation and Setup
 
 
 
-\### 1. Clone the repository
+### 1. Clone the repository
 
 
 
@@ -124,7 +124,7 @@ git clone https://github.com/kundana-sree-y/FAQ-Chatbot.git
 
 
 
-\### 2. Navigate to the project directory
+### 2. Navigate to the project directory
 
 
 
@@ -136,7 +136,7 @@ cd FAQ-Chatbot
 
 
 
-\### 3. Create a virtual environment
+### 3. Create a virtual environment
 
 
 
@@ -148,11 +148,11 @@ python -m venv .venv
 
 
 
-\### 4. Activate the virtual environment
+### 4. Activate the virtual environment
 
 
 
-\*\*Windows — Git Bash:\*\*
+**Windows — Git Bash:**
 
 
 
@@ -164,7 +164,7 @@ source .venv/Scripts/activate
 
 
 
-\*\*Windows — PowerShell:\*\*
+**Windows — PowerShell:**
 
 
 
@@ -176,7 +176,7 @@ source .venv/Scripts/activate
 
 
 
-\### 5. Install dependencies
+### 5. Install dependencies
 
 
 
@@ -188,19 +188,19 @@ pip install -r requirements.txt
 
 
 
-\### 6. Train the NLP model
+### 6. Train the NLP model
 
 
 
 ```bash
 
-python train\_model.py
+python train_model.py
 
 ```
 
 
 
-\### 7. Start the application
+### 7. Start the application
 
 
 
@@ -212,7 +212,7 @@ python app.py
 
 
 
-\### 8. Open in your browser
+### 8. Open in your browser
 
 
 
@@ -224,7 +224,7 @@ http://127.0.0.1:5000
 
 
 
-\## 🧠 How CampusAI Works
+## 🧠 How CampusAI Works
 
 
 
@@ -242,7 +242,7 @@ http://127.0.0.1:5000
 
 
 
-\## 🎯 Project Objective
+## 🎯 Project Objective
 
 
 
@@ -250,23 +250,23 @@ The objective of CampusAI is to create an accessible and interactive college inf
 
 
 
-\## 🚀 Future Enhancements
+## 🚀 Future Enhancements
 
 
 
-\- Expand the college knowledge base.
+- Expand the college knowledge base.
 
-\- Improve query understanding and response accuracy.
+- Improve query understanding and response accuracy.
 
-\- Enhance multilingual conversational capabilities.
+- Enhance multilingual conversational capabilities.
 
-\- Integrate additional student-focused features.
+- Integrate additional student-focused features.
 
-\- Improve the chatbot interface and accessibility.
+- Improve the chatbot interface and accessibility.
 
 
 
-\## 👩‍💻 Developer
+## 👩‍💻 Developer
 
 
 
@@ -274,7 +274,7 @@ Developed as a Python-based AI and NLP project.
 
 
 
-\---
+---
 
 
 
